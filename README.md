@@ -1,6 +1,6 @@
-# starter-snake-python
+# Battle Snake
 
-A simple [Battlesnake AI](http://battlesnake.io) written in Python. 
+A simple [Battlesnake AI](http://battlesnake.io) written in Python.
 
 Visit [https://github.com/battlesnakeio/community/blob/master/starter-snakes.md](https://github.com/battlesnakeio/community/blob/master/starter-snakes.md) for API documentation and instructions for running your AI.
 
@@ -19,9 +19,6 @@ This AI client uses the [bottle web framework](http://bottlepy.org/docs/dev/inde
 1) [Fork this repo](https://github.com/battlesnakeio/starter-snake-python/fork).
 
 2) Clone repo to your development environment:
-```
-git clone git@github.com:<your github username>/starter-snake-python.git
-```
 
 3) Install dependencies using [pip](https://pip.pypa.io/en/latest/installing.html):
 ```
@@ -60,7 +57,3 @@ or visit [http://APP_NAME.herokuapp.com](http://APP_NAME.herokuapp.com).
 ```
 heroku logs --tail
 ```
-
-## Questions?
-
-Email [hello@battlesnake.com](mailto:hello@battlesnake.com), or tweet [@battlesnakeio](http://twitter.com/battlesnakeio).
